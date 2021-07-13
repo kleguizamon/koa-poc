@@ -1,0 +1,21 @@
+{
+  "name": "koa-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleguizamon/koa-poc.git"
+  },
+  "author": "Kevin Leguizamon",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-respond": "^2.1.0",
+    "koa-router": "^10.0.0"
+  }
+}
